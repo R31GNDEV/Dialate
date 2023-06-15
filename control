@@ -1,0 +1,9 @@
+Package: online.transrights.dialate
+Name: Dialate
+Version: 1.1.0meow
+Architecture: iphoneos-arm
+Description: Change the Dock Colors & Add some Shadow!
+Maintainer: Kota
+Author: Kota
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
