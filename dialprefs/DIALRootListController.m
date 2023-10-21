@@ -93,7 +93,7 @@
 
 -(void)transDiscord {
 	[[UIApplication sharedApplication]
-	openURL:[NSURL URLWithString:@"https://discord.gg/queer"]
+	openURL:[NSURL URLWithString:@"https://discord.gg/NzK4NjhVpA"]
 	options:@{}
 	completionHandler:nil];
 }
